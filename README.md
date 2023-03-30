@@ -46,22 +46,25 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 ## Analysis
 
 ### Revenue
--The company generated a total revenue of _#1.7 million_
--In 2021, they generated _#733,000_ and _#1 million_ in 2022
+- The company generated a total revenue of _#1.7 million_
+- In 2021, they generated _#733,000_ and _#1 million_ in 2022
 
 ### Expenses
 
--The company generated total expense of _#1.34 million_
--Total direct expenses of _#1 million_
--Total indirect expenses of _#268,550_
+- The company generated total expense of _#1.34 million_
+- Total direct expenses of _#1 million_
+- Total indirect expenses of _#268,550_
 
 ### Profit 
--The company generated a total profit of _#425,000_
--_#67,000_ in 2021 and _#358,000_ in 2022
+- The company generated a total profit of _#425,000_
+- _#67,000_ in 2021 and _#358,000_ in 2022
 
 
-Conclusion and Recommendations
+## Conclusion and Recommendations
 
+- **Pick and Crunch** has seen over 50% growth in profit in 2022
+- The company has also been able to reduce its expenses in 2022 which is a good in helping to maximize profit
 
+#Recommendation: For better insights, the company should furthe breakdown data on how the expenses are incured, distinguishing between Operational expenses, tax among other expenses for a clearer analysis.
 
 
