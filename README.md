@@ -1,13 +1,13 @@
 # Pick-and-Crunch-Income-Statement-Analysis
-An visual report of my business Revenue, Expenses and profit for year 2021 and 2022
+An visual report of **Pick and Crunch** business Revenue, Expenses and profit for year 2021 and 2022
 
 ![](p%20and%20chips%20image.jpg)
 
 ## Introduction
 
-This is a Power BI project on income statement analysis of ""Pick and Crunch"", a snack producing company. 
+This is a Power BI project on income statement analysis of **Pick and Crunch**, a snack producing company. 
 The project is to analyze and derive insights to answer crucial questions and help the company make informed data driven decisions. 
-""_NOTE:_"" _Pick and Crunch reserves all rights to the datasets and reports in this project._
+**_NOTE:_** _Pick and Crunch reserves all rights to the datasets and reports in this project._
 
 ## Problem Statement
 
@@ -38,6 +38,7 @@ The model is a *Single Schema*
 
 ## Visualization
 
+![](Screenshot%202023-03-30%20111435.png)
 ![](Pick%20and%20Crunch%20P%26L%20Report.pbix)
 You can interact with the report [here](https://app.powerbi.com/groups/me/reports/4031441f-b62d-4b18-8fa4-4b29e587b004?redirectedFromSignup=1)
 
@@ -54,12 +55,12 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 -Total direct expenses of _#1 million_
 -Total indirect expenses of _#268,550_
 
-### Profit ![]()
+### Profit 
 -The company generated a total profit of _#425,000_
 -_#67,000_ in 2021 and _#358,000_ in 2022
 
 
-
+Conclusion and Recommendations
 
 
 
