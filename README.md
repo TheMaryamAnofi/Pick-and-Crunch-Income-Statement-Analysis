@@ -65,6 +65,6 @@ You can interact with the report [here](https://app.powerbi.com/groups/me/report
 - **Pick and Crunch** has seen over 50% growth in profit in 2022
 - The company has also been able to reduce its expenses in 2022 which is a good in helping to maximize profit
 
-#Recommendation: For better insights, the company should furthe breakdown data on how the expenses are incured, distinguishing between Operational expenses, tax among other expenses for a clearer analysis.
+#Recommendation: For better insights, the company should further breakdown data on how the expenses are incured, distinguishing between Operational expenses, tax among other expenses for a clearer analysis.
 
 
